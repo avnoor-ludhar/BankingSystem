@@ -1,4 +1,8 @@
 ### IntelliJ IDEA ###
+.idea/
+*.iws
+*.iml
+*.ipr
 out/
 !**/src/main/**/out/
 !**/src/test/**/out/
@@ -14,6 +18,7 @@ out/
 bin/
 !**/src/main/**/bin/
 !**/src/test/**/bin/
+.tmp
 
 ### NetBeans ###
 /nbproject/private/
@@ -25,5 +30,74 @@ bin/
 ### VS Code ###
 .vscode/
 
-### Mac OS ###
+### OS Specific ###
+# Mac OS
 .DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Linux
+.Trash-*
+
+### Java ###
+*.class
+*.jar
+*.war
+*.ear
+
+### Maven ###
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+
+### Gradle ###
+.gradle
+build/
+!gradle-wrapper.jar
+
+### Logs ###
+*.log
+*.log.*
+
+### Common Temporary Files ###
+*.swp
+*.swo
+*~
+*.bak
+*.tmp
+*.temp
+*.old
+*.orig
+
+### IntelliJ IDEA Plugin ###
+/.idea/**/workspace.xml
+/.idea/**/tasks.xml
+/.idea/**/usage.statistics.xml
+/.idea/**/dictionaries
+/.idea/**/shelf
+
+### Linting ###
+/lint/reports/
+/lint/outputs/
+
+# Test Reports
+/test-results/
+/test-output/
+
+### Common Archives ###
+*.zip
+*.tar.gz
+*.rar
+*.7z
+
+### Application Specific ###
+/accounts_report.txt
