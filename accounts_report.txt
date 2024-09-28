@@ -1,0 +1,55 @@
+Accounts Report:
+======================================
+Owner: avn
+Account Number: 336961581
+Type: CheckingAccount
+Balance: 1000.00
+Transactions:
+  - Initial Deposit: 1000.00 on Wed Aug 07 09:38:24 EDT 2024
+======================================
+Accounts Report:
+======================================
+Owner: avnoor 
+Account Number: 708845014
+Type: SavingsAccount
+Balance: 1144.40
+Transactions:
+  - Initial Deposit: 1000.00 on Mon Aug 12 12:19:08 EDT 2024
+  - Interest: 20.00 on Mon Aug 12 12:19:08 EDT 2024
+  - Deposit: 100.00 on Mon Aug 12 12:19:52 EDT 2024
+  - Deposit: 100.00 on Mon Aug 12 12:20:07 EDT 2024
+  - Interest: 24.40 on Mon Aug 12 12:20:08 EDT 2024
+  - Withdrawal: 100.00 on Mon Aug 12 12:20:17 EDT 2024
+======================================
+Owner: avnoor 
+Account Number: 958728899
+Type: CheckingAccount
+Balance: 900.00
+Transactions:
+  - Initial Deposit: 1000.00 on Mon Aug 12 12:18:42 EDT 2024
+  - Withdrawal: 100.00 on Mon Aug 12 12:19:52 EDT 2024
+======================================
+Accounts Report:
+======================================
+Owner: avnoor 
+Account Number: 708845014
+Type: SavingsAccount
+Balance: 1190.63
+Transactions:
+  - Initial Deposit: 1000.00 on Mon Aug 12 12:19:08 EDT 2024
+  - Interest: 20.00 on Mon Aug 12 12:19:08 EDT 2024
+  - Deposit: 100.00 on Mon Aug 12 12:19:52 EDT 2024
+  - Deposit: 100.00 on Mon Aug 12 12:20:07 EDT 2024
+  - Interest: 24.40 on Mon Aug 12 12:20:08 EDT 2024
+  - Withdrawal: 100.00 on Mon Aug 12 12:20:17 EDT 2024
+  - Interest: 22.89 on Mon Aug 12 12:21:08 EDT 2024
+  - Interest: 23.35 on Mon Aug 12 12:22:08 EDT 2024
+======================================
+Owner: avnoor 
+Account Number: 958728899
+Type: CheckingAccount
+Balance: 900.00
+Transactions:
+  - Initial Deposit: 1000.00 on Mon Aug 12 12:18:42 EDT 2024
+  - Withdrawal: 100.00 on Mon Aug 12 12:19:52 EDT 2024
+======================================
